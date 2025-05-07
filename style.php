@@ -1,3 +1,3 @@
 <?php 
 
-$style = 'style';
+$style = 'style css';
